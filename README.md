@@ -60,39 +60,8 @@ public class IfElseIf {
 }
 
 ```
-## Project 2 Continents and Cities
-Let's practice using if statements!
-In this project, you will write a program that will print out a continent and the largest city in that continent, 
-based on the value of an integer. Copy code to IDE to begin.
-```
-public class LargestCity {
-  public static void main(String[]args){
+## Project #2: Episodes
+Your Episode will allow the user to become a character in your story. Fill your story with love, romance, adventure, and drama. Start by copying and pasting the below code fragment into the online compiler. From here the details are up to you. Use your print statements, if statements, and nested if statements to create a story.
 
-  }
-}
-```
 
-1. Create an int variable called continent and set it equal to 4.
-
-2. Create if, else - if - statements with a boolean expression that checks if continent is equal to 1-7. 
-
-3. When the value of continent is 1, print out North America: Mexico City, Mexico.
-
-4. When the value of continent is 2, print out South America: Sao Paulo, Brazil.
-
-5. When the value of continent is 3, print out Europe: Moscow, Russia. 
-
-6. When the value of continent is 4, print out Africa: Lagos, Nigeria.
- 
-7. When the value of continent is 5, print out Asia: Shanghai, China. 
-
-8. When the value of continent is 6, print out Australia: Sydney, Australia. 
-
-9. When the value of continent is 7, print out Antarctica: McMurdo Station, US. 
-
-10. Finally, add a default case "else", The default case should print out Undefined continent! 
-
- If the program is written correctly, your output should be Africa: Lagos, Nigeria.
-
- Add comments near the top of the program that describe what the program does.
 
